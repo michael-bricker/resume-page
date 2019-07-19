@@ -1,0 +1,13 @@
+@import "./base/normalize.scss";
+@import "./base/variables";
+
+body {
+  background-color: $baseLight;
+  color: $mainText;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: $darkShade;
+}
